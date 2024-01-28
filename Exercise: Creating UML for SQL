@@ -1,0 +1,13 @@
+Exercise: Creating UML for SQL
+Task:
+Imagine you are tasked with designing a simple database system for a university. Create a UML class diagram based on the given SQL tables.
+
+SQL Tables:
+Student Table:
+Columns: studentId (int), firstName (varchar), lastName (varchar), major (varchar), enrollmentYear (int)
+
+Course Table:
+Columns: courseId (int), courseName (varchar), instructor (varchar), creditHours (int)
+Enrollment Table:
+
+Columns: enrollmentId (int), studentId (int), courseId (int), grade (varchar)
